@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/rijvi-mahmud?style=social)](https://github.com/RijviMahmud?tab=followers)  
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rijvimahmud)  
-🌐 **Portfolio:** [rijvimahmud.dev](https://rijvimahmud.dev)  
+🌐 **Portfolio:** [https://rijvi-mahmud-portfolio.vercel.app/](https://rijvi-mahmud-portfolio.vercel.app/)  
 
 ---
 
@@ -35,8 +35,7 @@
 
 ## 🌟 Achievements  
 
-- 🏆 Solved **500+ problems** on [LeetCode](https://leetcode.com/rijvimahmud/)  
-- 🛠️ Developed **open-source tools**, including [`create-nps`](https://github.com/RijviMahmud/create-nps)  
+- 🏆 Solved **500+ problems** on [LeetCode](https://leetcode.com/rijvimahmud/)
 - 🎯 Expert in **responsive design** and **performance optimization**  
 
 ---
@@ -53,28 +52,11 @@
 
 ---
 
-## 📌 Projects  
-
-### 🛍️ **Fashion E-commerce Website**  
-- Built a dynamic marketplace for vendors to list and sell products  
-- Tech Stack: **Next.js, TailwindCSS, Redux Toolkit**  
-- [View Project](https://github.com/RijviMahmud/fashion-ecommerce)  
-
-### 🍴 **Food Delivery Platform**  
-- Developed a robust platform for restaurant table booking and food delivery  
-- Integrated **Redux Toolkit Query** for data management  
-- [View Project](https://github.com/RijviMahmud/food-delivery-platform)  
-
-### 🛠️ **CLI Tool - create-nps**  
-- A CLI tool to automate project environment setup with custom configurations  
-- [View Project](https://github.com/RijviMahmud/create-nps)
-
----
 
 ## 💬 Let's Connect!  
 
 - **LinkedIn**: [linkedin.com/in/rijvimahmud](https://linkedin.com/in/rijvimahmud)  
-- **Portfolio**: [rijvimahmud.dev](https://rijvimahmud.dev)  
+- **Portfolio**: [rijvimahmud.dev]([https://rijvimahmud.dev](https://rijvi-mahmud-portfolio.vercel.app/))  
 - **Email**: [rijvi@example.com](mailto:rijvi@example.com)  
 
 ---
