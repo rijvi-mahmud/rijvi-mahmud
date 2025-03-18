@@ -2,41 +2,14 @@
 
 # Hi there 👋, I'm Rijvi Mahmud!  
 
-[![GitHub followers](https://img.shields.io/github/followers/rijvi-mahmud?style=social)](https://github.com/RijviMahmud?tab=followers)  
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rijvimahmud)  
+[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijvi-mahmud/)  
 🌐 **Portfolio:** [https://rijvi-mahmud-portfolio.vercel.app/](https://rijvi-mahmud-portfolio.vercel.app/)  
-
----
-
-## 👩‍💻 About Me  
-
-🎨 **Frontend Developer** | 2+ Years of Experience in crafting **user-centric designs** and **dynamic interfaces**  
-🚀 Passionate about **UI/UX**, **problem-solving**, and building scalable web applications  
-✨ Proficient in **React**, **Next.js**, **TypeScript**, and **TailwindCSS**  
-🌱 Currently exploring **monorepos**, **CLI tools**, and **open-source contributions**  
-
----
-
-## 🔧 Technologies & Tools  
-
-### **Frontend**
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat)  
-
-### **State Management**
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white&style=flat)  
-
-### **UI/UX Tools**
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)  
 
 ---
 
 ## 🌟 Achievements  
 
 - 🏆 Solved **500+ problems** on [LeetCode](https://leetcode.com/rijvimahmud/)
-- 🎯 Expert in **responsive design** and **performance optimization**  
 
 ---
 
@@ -55,9 +28,8 @@
 
 ## 💬 Let's Connect!  
 
-- **LinkedIn**: [linkedin.com/in/rijvimahmud](https://linkedin.com/in/rijvimahmud)  
-- **Portfolio**: [rijvimahmud.dev]([https://rijvimahmud.dev](https://rijvi-mahmud-portfolio.vercel.app/))  
-- **Email**: [rijvi@example.com](mailto:rijvi@example.com)  
+- **LinkedIn**: [Rijvi Mahmud's Linkedin](https://www.linkedin.com/in/rijvi-mahmud/)  
+- **Portfolio**: [Rijvi Mahmud's Portfolio](https://rijvi-mahmud-portfolio.vercel.app/)
 
 ---
 
