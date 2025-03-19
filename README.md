@@ -3,7 +3,17 @@
 # Hi there 👋, I'm Rijvi Mahmud!  
 
 [![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijvi-mahmud/)  
-🌐 **Portfolio:** [https://rijvi-mahmud-portfolio.vercel.app/](https://rijvi-mahmud-portfolio.vercel.app/)  
+🌐 **Portfolio:** [https://rijvi-mahmud-portfolio.vercel.app/](https://rijvi-mahmud-portfolio.vercel.app/)
+
+---
+
+Hey, I'm Rijvi Mahmud, a frontend developer with 2+ years of experience. I work with React.js, Next.js, TypeScript, ShadCN UI, Tanstack, Zustand, and Node.js, building clean and efficient user interfaces.
+
+I started my career remotely, and over time, well-known companies have trusted me for my reliability, ability to meet deadlines, clear communication, teamwork, and leadership skills. I believe in delivering high-quality software while staying available and adaptable to any situation.
+
+I'm someone who loves challenges, learns fast, and can work both independently and as part of a team. Whether it's planning things down to the last detail or working under tight deadlines, I stay focused and get the job done. I constantly improve by solving problems, reading documentation, and researching how other developers approach things.
+
+I also have a solid understanding of software best practices, SDLC, SOLID principles, and OOP, which help me write scalable and maintainable code.
 
 ---
 
