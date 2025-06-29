@@ -1,11 +1,4 @@
-**This GitHub profile is an extension of my old profile, which can be found at https://github.com/rijvimahmudd. I have recently lost access to my old GitHub profile.**
-
 # Hi there 👋, I'm Rijvi Mahmud!  
-
-[![LinkedIn](https://img.shields.io/badge/-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rijvi-mahmud/)  
-🌐 **Portfolio:** [https://rijvi-mahmud-portfolio.vercel.app/](https://rijvi-mahmud-portfolio.vercel.app/)
-
----
 
 Hey, I'm Rijvi Mahmud, a frontend developer with 2+ years of experience. I work with React.js, Next.js, TypeScript, ShadCN UI, Tanstack, Zustand, and Node.js, building clean and efficient user interfaces.
 
@@ -15,13 +8,11 @@ I'm someone who loves challenges, learns fast, and can work both independently a
 
 I also have a solid understanding of software best practices, SDLC, SOLID principles, and OOP, which help me write scalable and maintainable code.
 
----
 
 ## 🌟 Achievements  
 
 - 🏆 Solved **500+ problems** on [LeetCode](https://leetcode.com/rijvimahmud/)
 
----
 
 ## 📊 GitHub Stats  
 
@@ -32,8 +23,6 @@ I also have a solid understanding of software best practices, SDLC, SOLID princi
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijvi-mahmud&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
 
 
 ## 💬 Let's Connect!  
