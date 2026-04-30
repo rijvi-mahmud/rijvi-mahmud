@@ -1,6 +1,6 @@
 Senior Full-Stack Product Engineer (Remote | Freelance)
 
-Frontend transitioned to Full stack.
+Frontend transitioned to Full stack. 4+ years of experience.
 
 • Build B2B & B2C SaaS, ERP, Fintech, HealthTech, Restaurant Tech, Social & AI products
 • Turn ideas into real, usable products — from concept → production
